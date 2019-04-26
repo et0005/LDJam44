@@ -1,8 +1,9 @@
 #Hey Everyone thanks for joining us for the LD44 Game Jam!
 
-##If you are new or don't understand how to download the files, make sure you have downloaded [Github Desktop](https://desktop.github.com/). Next click on the green "clone or Download" button, from there click open in desktop and away you go!
+##If you are new or don't understand how to download the files, make sure you have downloaded [Github Desktop](https://desktop.github.com/) Next click on the green "clone or Download" button, from there click open in desktop and away you go!
 
 ---
+
 ###Ran's Automated Git push and Git pull script
 
 # GitPushGitPullAutomation
