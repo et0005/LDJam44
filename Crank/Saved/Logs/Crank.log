@@ -3553,3 +3553,7 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2019.04.27-23.56.38:902][877]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/AIEnemyE974657248A906E7F9B0B69CFF30CA6C.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/AI/AIEnemy.uasset'
 [2019.04.27-23.56.52:249][476]LogSlate: Window 'AIEnemy' being destroyed
 [2019.04.27-23.56.52:252][476]LogSlate: Window 'AIEnemy' being destroyed
+[2019.04.27-23.57.23:600][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.04.27-23.57.23:756][960]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/ThirdPersonExampleMap_Auto29B71665D45C29991490DC6B96426E0C9.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2019.04.27-23.57.23:759][960]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.184
+[2019.04.27-23.57.23:759][960]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.184
