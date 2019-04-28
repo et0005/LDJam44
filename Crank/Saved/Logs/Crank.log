@@ -656,3 +656,50 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.04.28-01.53.42:084][841]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.5.0
 
 
+[2019.04.28-01.54.11:670][605]LogAssetEditorManager: Opening Asset editor for World /Game/Scenes/GameWorld.GameWorld
+[2019.04.28-01.54.11:693][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.04.28-01.54.13:153][605]LogSlate: Window 'Save Content' being destroyed
+[2019.04.28-01.54.13:159][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/GameWorld" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Scenes/GameWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.28-01.54.13:183][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.04.28-01.54.13:506][605]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/GameWorld3A4BC1794213BA6995F02EBEC9471031.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Scenes/GameWorld.umap'
+[2019.04.28-01.54.13:533][605]LogFileHelpers: Saving map 'GameWorld' took 0.374
+[2019.04.28-01.54.13:535][605]Cmd: MAP LOAD FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Scenes/GameWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.28-01.54.13:535][605]LightingResults: New page: Lighting Build
+[2019.04.28-01.54.13:536][605]LoadErrors: New page: Loading map: GameWorld.umap
+[2019.04.28-01.54.13:541][605]MapCheck: New page: Map Check
+[2019.04.28-01.54.13:541][605]LightingResults: New page: Lighting Build
+[2019.04.28-01.54.13:567][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.04.28-01.54.13:628][605]LogAIModule: Creating AISystem for world GameWorld
+[2019.04.28-01.54.13:638][605]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.28-01.54.13:661][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.04.28-01.54.13:819][605]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.28-01.54.13:819][605]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.146ms to complete.
+[2019.04.28-01.54.13:820][605]LogFileHelpers: Loading map 'GameWorld' took 0.286
+[2019.04.28-01.54.20:074][349]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/AIEnemy.AIEnemy
+[2019.04.28-01.54.20:262][349]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.04.28-01.54.20:931][349]LogSlate: Took 0.002771 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.28-01.54.21:073][350]LogSlate: Took 0.002633 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.28-01.54.29:468][217]BlueprintLog: New page: Compile AIEnemy
+[2019.04.28-01.54.29:650][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.04.28-01.54.29:903][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIEnemy" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/AI/AIEnemy.uasset" SILENT=true
+[2019.04.28-01.54.29:981][228]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/AIEnemyE71F40FF4A7B547A2DAF42BC24A525FD.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/AI/AIEnemy.uasset'
+[2019.04.28-01.54.30:810][310]LogSlate: Window 'AIEnemy' being destroyed
+[2019.04.28-01.54.30:813][310]LogSlate: Window 'AIEnemy' being destroyed
+[2019.04.28-01.54.37:923][152]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.04.28-01.54.37:934][152]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.04.28-01.54.37:963][152]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.04.28-01.54.37:964][152]Cmd: MAP LOAD FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.28-01.54.37:964][152]LightingResults: New page: Lighting Build
+[2019.04.28-01.54.37:964][152]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.04.28-01.54.37:968][152]MapCheck: New page: Map Check
+[2019.04.28-01.54.37:969][152]LightingResults: New page: Lighting Build
+[2019.04.28-01.54.37:995][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.04.28-01.54.38:000][152]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.28-01.54.38:029][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.04.28-01.54.38:049][152]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.28-01.54.38:049][152]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.09ms to complete.
+[2019.04.28-01.54.38:049][152]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.087
+[2019.04.28-01.54.39:805][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.54.39:907][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.04.28-01.54.40:060][366]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/ThirdPersonExampleMapA693EDED4BF608F43C426BA7F57C63DD.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.04.28-01.54.40:203][366]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/ThirdPersonExampleMap_BuiltDataFD598CBB422C021172A81F95D67542DB.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
