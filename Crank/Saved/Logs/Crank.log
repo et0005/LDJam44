@@ -46111,3 +46111,109 @@ Make sure 'AIEnemy_C' has been compiled for  Reset Chase
 [2019.04.28-01.39.24:284][665]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/AIEnemy_Auto875D805F54C793EDEECF8BDA7B59D7EBF.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Autosaves/Game/AI/AIEnemy_Auto8.uasset'
 [2019.04.28-01.39.24:285][665]LogFileHelpers: Auto-saving content packages took 0.095
 [2019.04.28-01.40.59:385][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.45.36:259][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.45.42:801][432]LogSlate: Window 'Save Level As' being destroyed
+[2019.04.28-01.45.44:806][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2019.04.28-01.45.44:843][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.04.28-01.45.45:008][609]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/ThirdPersonExampleMapD8A9EC8C4AF722CC1025C3950C4B4DF0.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.04.28-01.45.45:043][609]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.225
+[2019.04.28-01.45.45:045][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Meshes/RampMaterial" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/ThirdPerson/Meshes/RampMaterial.uasset" SILENT=true
+[2019.04.28-01.45.45:061][609]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/RampMaterial58BB20284AD5C305EF85DDA4937C6E8F.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/ThirdPerson/Meshes/RampMaterial.uasset'
+[2019.04.28-01.45.45:070][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIEnemy" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/AI/AIEnemy.uasset" SILENT=true
+[2019.04.28-01.45.45:139][609]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/AIEnemyE3612310481B10B3DBBF55B5BC8C87C2.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/AI/AIEnemy.uasset'
+[2019.04.28-01.45.45:147][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Big_Hit_To_Head" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Big_Hit_To_Head.uasset" SILENT=true
+[2019.04.28-01.45.45:193][609]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Big_Hit_To_HeadBD3324164B67496CBD159399AA9C97D9.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Big_Hit_To_Head.uasset'
+[2019.04.28-01.45.45:200][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Big_Hit_To_Head_Skeleton" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Big_Hit_To_Head_Skeleton.uasset" SILENT=true
+[2019.04.28-01.45.45:206][609]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Big_Hit_To_Head_SkeletonADFAB11347661825EA9720B67F1FF0FF.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Big_Hit_To_Head_Skeleton.uasset'
+[2019.04.28-01.45.45:213][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Big_Hit_To_Head_PhysicsAsset" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Big_Hit_To_Head_PhysicsAsset.uasset" SILENT=true
+[2019.04.28-01.45.45:221][609]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Big_Hit_To_Head_PhysicsAssetF1C3B8D243401B581A70A4B1C9E391F0.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Big_Hit_To_Head_PhysicsAsset.uasset'
+[2019.04.28-01.45.45:230][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Big_Hit_To_Head_Anim_Take_001" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Big_Hit_To_Head_Anim_Take_001.uasset" SILENT=true
+[2019.04.28-01.45.45:236][609]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Big_Hit_To_Head_Anim_Take_0013899FE5C4C310AE61223A19EAB3B0084.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Big_Hit_To_Head_Anim_Take_001.uasset'
+[2019.04.28-01.45.45:249][609]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Big_Hit_To_Head_Anim_mixamo_com040F4989433469092E731FBD65989D77.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Big_Hit_To_Head_Anim_mixamo_com.uasset'
+[2019.04.28-01.45.45:257][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Death_mixamo_com" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Death_mixamo_com.uasset" SILENT=true
+[2019.04.28-01.45.45:263][609]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Death_mixamo_comCC982B49403A39B69E6EB99ADB732995.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Death_mixamo_com.uasset'
+[2019.04.28-01.45.45:271][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Death_Take_001" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Death_Take_001.uasset" SILENT=true
+[2019.04.28-01.45.45:277][609]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Death_Take_001DEAA15E1444351699C3B31B121665859.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Death_Take_001.uasset'
+[2019.04.28-01.45.45:284][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Standard_Run" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Standard_Run.uasset" SILENT=true
+[2019.04.28-01.45.45:302][609]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Standard_RunB10328624562BF4363E816B77E1BC90E.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Standard_Run.uasset'
+[2019.04.28-01.45.45:310][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Right_Hook_Take_001" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Right_Hook_Take_001.uasset" SILENT=true
+[2019.04.28-01.45.45:316][609]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Right_Hook_Take_0019CE15E8C42BDDBF968D4659FE229186B.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Right_Hook_Take_001.uasset'
+[2019.04.28-01.45.45:323][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Right_Hook_mixamo_com" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Right_Hook_mixamo_com.uasset" SILENT=true
+[2019.04.28-01.45.45:329][609]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Right_Hook_mixamo_com8158051047EDF11A6A2F49A35DD3F407.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Right_Hook_mixamo_com.uasset'
+[2019.04.28-01.45.45:337][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Standard_Idle" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Standard_Idle.uasset" SILENT=true
+[2019.04.28-01.45.45:343][609]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Standard_IdleB893F5F948F5D8F6C818ABAD845F9D02.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Standard_Idle.uasset'
+[2019.04.28-01.45.45:351][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Uppercut_Take_001" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Uppercut_Take_001.uasset" SILENT=true
+[2019.04.28-01.45.45:357][609]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Uppercut_Take_0017BC1BF5A4D3094EA0FFC36A6436DD381.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Uppercut_Take_001.uasset'
+[2019.04.28-01.45.45:366][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Uppercut_mixamo_com" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Uppercut_mixamo_com.uasset" SILENT=true
+[2019.04.28-01.45.45:397][609]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Uppercut_mixamo_com445DF07F4883F4054CA69AB372A425DD.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Uppercut_mixamo_com.uasset'
+[2019.04.28-01.45.45:405][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Zombie_Punching_mixamo_com" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Zombie_Punching_mixamo_com.uasset" SILENT=true
+[2019.04.28-01.45.45:412][609]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Zombie_Punching_mixamo_comB7F118DF41E36B321A1D8F9105049DD6.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Zombie_Punching_mixamo_com.uasset'
+[2019.04.28-01.45.45:420][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Zombie_Punching_Take_001" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Zombie_Punching_Take_001.uasset" SILENT=true
+[2019.04.28-01.45.45:426][609]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Zombie_Punching_Take_0010AC8F9E546921EC8D75554B5D534F6F1.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Zombie_Punching_Take_001.uasset'
+[2019.04.28-01.45.45:433][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Walking_mixamo_com" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Walking_mixamo_com.uasset" SILENT=true
+[2019.04.28-01.45.45:439][609]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Walking_mixamo_com54AE3BB8413B26AB991484A77FC225C7.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Walking_mixamo_com.uasset'
+[2019.04.28-01.45.45:445][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Walking_Take_001" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Walking_Take_001.uasset" SILENT=true
+[2019.04.28-01.45.45:451][609]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Walking_Take_0012C235C93446C76263C34C8AC9B52C17B.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Animations/Walking_Take_001.uasset'
+[2019.04.28-01.46.06:862][171]LogSlate: Window 'Save Level As' being destroyed
+[2019.04.28-01.46.07:163][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.04.28-01.46.07:278][171]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.04.28-01.46.07:325][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.04.28-01.46.07:477][171]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/ThirdPersonExampleMapC2BA4AC846EE4C3F784291B8582C606E.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Scenes/ThirdPersonExampleMap.umap'
+[2019.04.28-01.46.07:485][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/ThirdPersonExampleMap_BuiltData" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Scenes/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2019.04.28-01.46.07:558][171]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/ThirdPersonExampleMap_BuiltData4A01294642A4CE00E0287191886AC967.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Scenes/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.04.28-01.46.07:566][171]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.697
+[2019.04.28-01.46.07:567][171]Cmd: MAP LOAD FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Scenes/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.28-01.46.07:573][171]LightingResults: New page: Lighting Build
+[2019.04.28-01.46.07:574][171]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.04.28-01.46.07:578][171]MapCheck: New page: Map Check
+[2019.04.28-01.46.07:578][171]LightingResults: New page: Lighting Build
+[2019.04.28-01.46.07:607][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.04.28-01.46.07:795][171]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.28-01.46.07:822][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.04.28-01.46.07:846][171]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.28-01.46.07:846][171]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.099ms to complete.
+[2019.04.28-01.46.07:846][171]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.281
+[2019.04.28-01.46.13:391][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.46.13:543][714]LogAIModule: Creating AISystem for world MainMenu
+[2019.04.28-01.46.13:546][714]LogAssetEditorManager: Opening Asset editor for World /Game/Scenes/MainMenu.MainMenu
+[2019.04.28-01.46.13:572][714]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.04.28-01.46.13:573][714]Cmd: MAP LOAD FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Scenes/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.28-01.46.13:574][714]LightingResults: New page: Lighting Build
+[2019.04.28-01.46.13:574][714]LoadErrors: New page: Loading map: MainMenu.umap
+[2019.04.28-01.46.13:575][714]MapCheck: New page: Map Check
+[2019.04.28-01.46.13:575][714]LightingResults: New page: Lighting Build
+[2019.04.28-01.46.13:609][714]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.04.28-01.46.13:612][714]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.28-01.46.13:641][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.04.28-01.46.13:660][714]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.28-01.46.13:660][714]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.083ms to complete.
+[2019.04.28-01.46.13:660][714]LogFileHelpers: Loading map 'MainMenu' took 0.088
+[2019.04.28-01.46.14:701][810]LogAIModule: Creating AISystem for world GameWorld
+[2019.04.28-01.46.14:704][810]LogAssetEditorManager: Opening Asset editor for World /Game/Scenes/GameWorld.GameWorld
+[2019.04.28-01.46.14:727][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.04.28-01.46.14:728][810]Cmd: MAP LOAD FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Scenes/GameWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.28-01.46.14:728][810]LightingResults: New page: Lighting Build
+[2019.04.28-01.46.14:729][810]LoadErrors: New page: Loading map: GameWorld.umap
+[2019.04.28-01.46.14:729][810]MapCheck: New page: Map Check
+[2019.04.28-01.46.14:729][810]LightingResults: New page: Lighting Build
+[2019.04.28-01.46.14:760][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.04.28-01.46.14:762][810]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.28-01.46.14:790][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.04.28-01.46.14:810][810]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.28-01.46.14:810][810]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.085ms to complete.
+[2019.04.28-01.46.14:810][810]LogFileHelpers: Loading map 'GameWorld' took 0.082
+[2019.04.28-01.46.18:538][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.46.31:199][497]LogAssetEditorManager: Opening Asset editor for World /Game/Scenes/GameWorld.GameWorld
+[2019.04.28-01.46.31:228][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.04.28-01.46.31:229][497]Cmd: MAP LOAD FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Scenes/GameWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.28-01.46.31:229][497]LightingResults: New page: Lighting Build
+[2019.04.28-01.46.31:229][497]LoadErrors: New page: Loading map: GameWorld.umap
+[2019.04.28-01.46.31:230][497]MapCheck: New page: Map Check
+[2019.04.28-01.46.31:230][497]LightingResults: New page: Lighting Build
+[2019.04.28-01.46.31:261][497]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.04.28-01.46.31:265][497]LogAIModule: Creating AISystem for world GameWorld
+[2019.04.28-01.46.31:266][497]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.28-01.46.31:298][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.04.28-01.46.31:320][497]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.28-01.46.31:320][497]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.088ms to complete.
+[2019.04.28-01.46.31:321][497]LogFileHelpers: Loading map 'GameWorld' took 0.093
