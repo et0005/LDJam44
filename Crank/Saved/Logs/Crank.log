@@ -703,3 +703,23 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.04.28-01.54.39:907][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
 [2019.04.28-01.54.40:060][366]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/ThirdPersonExampleMapA693EDED4BF608F43C426BA7F57C63DD.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.04.28-01.54.40:203][366]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/ThirdPersonExampleMap_BuiltDataFD598CBB422C021172A81F95D67542DB.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.04.28-01.58.24:786][214]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.04.28-01.58.29:481][487]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-01.58.31:670][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.04.28-01.58.31:813][693]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/ThirdPersonExampleMap51C04FA648939B51687DC6BA69283844.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.04.28-01.58.31:914][693]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/ThirdPersonExampleMap_BuiltDataD7EB76AB438E8221621C99930C145504.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.04.28-01.58.33:548][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.04.28-01.58.41:672][849]LogAIModule: Creating AISystem for world GameWorld
+[2019.04.28-01.58.41:729][849]LogAssetEditorManager: Opening Asset editor for World /Game/Scenes/GameWorld.GameWorld
+[2019.04.28-01.58.41:760][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.04.28-01.58.41:761][849]Cmd: MAP LOAD FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Scenes/GameWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.28-01.58.41:761][849]LightingResults: New page: Lighting Build
+[2019.04.28-01.58.41:761][849]LoadErrors: New page: Loading map: GameWorld.umap
+[2019.04.28-01.58.41:844][849]MapCheck: New page: Map Check
+[2019.04.28-01.58.41:844][849]LightingResults: New page: Lighting Build
+[2019.04.28-01.58.41:871][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.04.28-01.58.41:882][849]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.28-01.58.41:909][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.04.28-01.58.41:931][849]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.28-01.58.42:053][849]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 122.884ms to complete.
+[2019.04.28-01.58.42:054][849]LogFileHelpers: Loading map 'GameWorld' took 0.294
