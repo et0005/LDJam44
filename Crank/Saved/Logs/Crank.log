@@ -886,3 +886,1203 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.04.28-17.27.31:631][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/GameWorld" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Scenes/GameWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2019.04.28-17.27.31:659][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
 [2019.04.28-17.27.32:428][207]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/GameWorldF13B01B64CEDC3BEEC0BEEB775D53C38.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Scenes/GameWorld.umap'
+[2019.04.28-17.56.01:718][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-17.56.21:300][600]BlueprintLog: New page: Compile AIEnemy
+[2019.04.28-17.56.21:506][600]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.04.28-17.56.21:915][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIEnemy" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/AI/AIEnemy.uasset" SILENT=true
+[2019.04.28-17.56.22:013][639]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/AIEnemyFABB9A8D44682E7F8A2BAE9B7E9ACEBF.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/AI/AIEnemy.uasset'
+[2019.04.28-17.56.25:432][ 43]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.28-17.56.25:448][ 43]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-17.56.25:448][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.28-17.56.25:448][ 43]PIE: New page: PIE session: GameWorld (Apr 28, 2019, 7:56:25 AM)
+[2019.04.28-17.56.25:448][ 43]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_GameWorld
+[2019.04.28-17.56.25:492][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044285s)
+[2019.04.28-17.56.25:493][ 43]LogAIModule: Creating AISystem for world GameWorld
+[2019.04.28-17.56.25:493][ 43]LogPlayLevel: PIE: World Init took: (0.000531s)
+[2019.04.28-17.56.25:493][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/GameWorld.GameWorld to /Game/Scenes/UEDPIE_0_GameWorld.GameWorld (0.045066s)
+[2019.04.28-17.56.25:520][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.04.28-17.56.25:533][ 43]LogInit: XAudio2 using 'Headset Earphone (ASTRO Wireless Transmitter )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.28-17.56.25:541][ 43]LogInit: FAudioDevice initialized.
+[2019.04.28-17.56.25:570][ 43]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.28-17.56.25:591][ 43]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_GameWorld.GameWorld up for play (max tick rate 0) at 2019.04.28-12.56.25
+[2019.04.28-17.56.25:594][ 43]LogWorld: Bringing up level for play took: 0.023025
+[2019.04.28-17.56.25:607][ 43]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_GameWorld -0.459
+[2019.04.28-17.56.25:608][ 43]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-17.56.45:576][337]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-17.56.45:576][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-17.56.45:637][337]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.28-17.56.45:638][337]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-17.56.45:672][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-17.56.45:677][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.04.28-17.56.45:718][338]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.04.28-17.56.49:378][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-17.57.22:343][ 95]BlueprintLog: New page: Compile AIEnemy
+[2019.04.28-17.57.22:542][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.04.28-17.57.22:732][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIEnemy" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/AI/AIEnemy.uasset" SILENT=true
+[2019.04.28-17.57.22:825][ 98]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/AIEnemy09EC9A2242E35D57374647A2648B079D.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/AI/AIEnemy.uasset'
+[2019.04.28-17.57.23:942][174]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.28-17.57.23:971][174]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-17.57.23:971][174]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.28-17.57.23:971][174]PIE: New page: PIE session: GameWorld (Apr 28, 2019, 7:57:23 AM)
+[2019.04.28-17.57.23:971][174]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_GameWorld
+[2019.04.28-17.57.24:014][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042952s)
+[2019.04.28-17.57.24:015][174]LogAIModule: Creating AISystem for world GameWorld
+[2019.04.28-17.57.24:015][174]LogPlayLevel: PIE: World Init took: (0.000453s)
+[2019.04.28-17.57.24:015][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/GameWorld.GameWorld to /Game/Scenes/UEDPIE_0_GameWorld.GameWorld (0.043625s)
+[2019.04.28-17.57.24:045][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.04.28-17.57.24:058][174]LogInit: XAudio2 using 'Headset Earphone (ASTRO Wireless Transmitter )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.28-17.57.24:065][174]LogInit: FAudioDevice initialized.
+[2019.04.28-17.57.24:092][174]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.28-17.57.24:113][174]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_GameWorld.GameWorld up for play (max tick rate 0) at 2019.04.28-12.57.24
+[2019.04.28-17.57.24:115][174]LogWorld: Bringing up level for play took: 0.022767
+[2019.04.28-17.57.24:128][174]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_GameWorld 0.062
+[2019.04.28-17.57.24:129][174]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-17.57.36:795][995]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-17.57.36:795][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-17.57.36:885][995]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.28-17.57.36:886][995]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-17.57.36:918][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-17.57.36:924][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.04.28-17.57.37:028][996]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.04.28-17.57.38:183][ 77]LogEditorViewport: Clicking on Actor (LMB): AIEnemy_C (AIEnemy2)
+[2019.04.28-17.57.44:427][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Side_Walk_96)
+[2019.04.28-17.57.45:520][504]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-17.57.46:924][591]LogSlate: Window 'Select Path' being destroyed
+[2019.04.28-17.57.49:115][732]LogSlate: Window 'Select Path' being destroyed
+[2019.04.28-17.57.52:459][936]LogEditorViewport: Clicking on Actor (LMB): AIEnemy_C (AIEnemy4)
+[2019.04.28-17.57.53:393][988]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-17.57.55:428][114]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-17.58.00:424][437]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.28-17.58.00:435][437]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-17.58.00:435][437]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.28-17.58.00:435][437]PIE: New page: PIE session: GameWorld (Apr 28, 2019, 7:58:00 AM)
+[2019.04.28-17.58.00:435][437]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_GameWorld
+[2019.04.28-17.58.00:479][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042941s)
+[2019.04.28-17.58.00:479][437]LogAIModule: Creating AISystem for world GameWorld
+[2019.04.28-17.58.00:479][437]LogPlayLevel: PIE: World Init took: (0.000486s)
+[2019.04.28-17.58.00:479][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/GameWorld.GameWorld to /Game/Scenes/UEDPIE_0_GameWorld.GameWorld (0.043640s)
+[2019.04.28-17.58.00:509][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.04.28-17.58.00:522][437]LogInit: XAudio2 using 'Headset Earphone (ASTRO Wireless Transmitter )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.28-17.58.00:530][437]LogInit: FAudioDevice initialized.
+[2019.04.28-17.58.00:560][437]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.28-17.58.00:581][437]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_GameWorld.GameWorld up for play (max tick rate 0) at 2019.04.28-12.58.00
+[2019.04.28-17.58.00:583][437]LogWorld: Bringing up level for play took: 0.022928
+[2019.04.28-17.58.00:596][437]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_GameWorld 0.53
+[2019.04.28-17.58.00:597][437]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-17.58.15:690][556]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-17.58.15:690][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-17.58.15:761][556]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.28-17.58.15:762][556]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-17.58.15:795][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-17.58.15:803][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.04.28-17.58.15:909][557]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.04.28-17.58.17:866][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-17.58.31:150][513]BlueprintLog: New page: Compile AIEnemy
+[2019.04.28-17.58.31:380][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.04.28-17.58.32:076][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIEnemy" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/AI/AIEnemy.uasset" SILENT=true
+[2019.04.28-17.58.32:171][557]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/AIEnemy1FB8C5FF4DA392BD22CDBBA9C00C63DB.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/AI/AIEnemy.uasset'
+[2019.04.28-17.58.33:196][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-17.58.33:298][643]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.28-17.58.33:328][643]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-17.58.33:328][643]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.28-17.58.33:328][643]PIE: New page: PIE session: GameWorld (Apr 28, 2019, 7:58:33 AM)
+[2019.04.28-17.58.33:328][643]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_GameWorld
+[2019.04.28-17.58.33:371][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042947s)
+[2019.04.28-17.58.33:371][643]LogAIModule: Creating AISystem for world GameWorld
+[2019.04.28-17.58.33:372][643]LogPlayLevel: PIE: World Init took: (0.000447s)
+[2019.04.28-17.58.33:372][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/GameWorld.GameWorld to /Game/Scenes/UEDPIE_0_GameWorld.GameWorld (0.043650s)
+[2019.04.28-17.58.33:403][643]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.04.28-17.58.33:416][643]LogInit: XAudio2 using 'Headset Earphone (ASTRO Wireless Transmitter )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.28-17.58.33:423][643]LogInit: FAudioDevice initialized.
+[2019.04.28-17.58.33:454][643]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.28-17.58.33:475][643]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_GameWorld.GameWorld up for play (max tick rate 0) at 2019.04.28-12.58.33
+[2019.04.28-17.58.33:478][643]LogWorld: Bringing up level for play took: 0.022941
+[2019.04.28-17.58.33:490][643]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_GameWorld -0.576
+[2019.04.28-17.58.33:491][643]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-17.58.36:352][800]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-17.58.36:353][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-17.58.36:427][800]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.28-17.58.36:428][800]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-17.58.36:466][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-17.58.36:471][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.04.28-17.58.36:578][801]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.04.28-17.58.37:293][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-17.58.42:659][272]BlueprintLog: New page: Compile AIEnemy
+[2019.04.28-17.58.42:857][272]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.04.28-17.58.43:206][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIEnemy" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/AI/AIEnemy.uasset" SILENT=true
+[2019.04.28-17.58.43:299][288]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/AIEnemyD7978A424238E802CBB3C0B2F1076813.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/AI/AIEnemy.uasset'
+[2019.04.28-17.58.43:950][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-17.58.44:012][340]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.28-17.58.44:041][340]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-17.58.44:041][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.28-17.58.44:041][340]PIE: New page: PIE session: GameWorld (Apr 28, 2019, 7:58:44 AM)
+[2019.04.28-17.58.44:041][340]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_GameWorld
+[2019.04.28-17.58.44:084][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042405s)
+[2019.04.28-17.58.44:084][340]LogAIModule: Creating AISystem for world GameWorld
+[2019.04.28-17.58.44:084][340]LogPlayLevel: PIE: World Init took: (0.000432s)
+[2019.04.28-17.58.44:085][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/GameWorld.GameWorld to /Game/Scenes/UEDPIE_0_GameWorld.GameWorld (0.043050s)
+[2019.04.28-17.58.44:111][340]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.04.28-17.58.44:125][340]LogInit: XAudio2 using 'Headset Earphone (ASTRO Wireless Transmitter )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.28-17.58.44:132][340]LogInit: FAudioDevice initialized.
+[2019.04.28-17.58.44:164][340]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.28-17.58.44:185][340]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_GameWorld.GameWorld up for play (max tick rate 0) at 2019.04.28-12.58.44
+[2019.04.28-17.58.44:187][340]LogWorld: Bringing up level for play took: 0.022873
+[2019.04.28-17.58.44:200][340]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_GameWorld 0.134
+[2019.04.28-17.58.44:201][340]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-17.58.57:797][320]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-17.58.57:797][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-17.58.57:874][320]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.28-17.58.57:875][320]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-17.58.57:918][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-17.58.57:924][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.04.28-17.58.58:034][321]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.04.28-17.58.58:905][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-17.59.01:667][600]BlueprintLog: New page: Compile AIEnemy
+[2019.04.28-17.59.01:865][600]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.04.28-17.59.02:123][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIEnemy" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/AI/AIEnemy.uasset" SILENT=true
+[2019.04.28-17.59.02:216][609]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/AIEnemyB107175842A1D0B4221C83BBE1E5EB0B.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/AI/AIEnemy.uasset'
+[2019.04.28-17.59.02:897][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-17.59.02:959][665]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.28-17.59.02:988][665]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-17.59.02:989][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.28-17.59.02:989][665]PIE: New page: PIE session: GameWorld (Apr 28, 2019, 7:59:02 AM)
+[2019.04.28-17.59.02:989][665]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_GameWorld
+[2019.04.28-17.59.03:031][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042442s)
+[2019.04.28-17.59.03:032][665]LogAIModule: Creating AISystem for world GameWorld
+[2019.04.28-17.59.03:032][665]LogPlayLevel: PIE: World Init took: (0.000429s)
+[2019.04.28-17.59.03:032][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/GameWorld.GameWorld to /Game/Scenes/UEDPIE_0_GameWorld.GameWorld (0.043082s)
+[2019.04.28-17.59.03:063][665]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.04.28-17.59.03:076][665]LogInit: XAudio2 using 'Headset Earphone (ASTRO Wireless Transmitter )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.28-17.59.03:084][665]LogInit: FAudioDevice initialized.
+[2019.04.28-17.59.03:110][665]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.28-17.59.03:131][665]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_GameWorld.GameWorld up for play (max tick rate 0) at 2019.04.28-12.59.03
+[2019.04.28-17.59.03:133][665]LogWorld: Bringing up level for play took: 0.022764
+[2019.04.28-17.59.03:146][665]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_GameWorld 1.08
+[2019.04.28-17.59.03:147][665]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-17.59.15:806][561]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-17.59.15:806][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-17.59.15:879][561]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.28-17.59.15:880][561]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-17.59.15:924][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-17.59.15:929][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.04.28-17.59.16:036][562]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.04.28-17.59.18:159][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-17.59.25:664][615]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Gun/Bullet.Bullet
+[2019.04.28-17.59.54:110][939]BlueprintLog: New page: Compile Bullet
+[2019.04.28-17.59.54:257][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.04.28-17.59.54:610][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/Bullet" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Gun/Bullet.uasset" SILENT=true
+[2019.04.28-17.59.54:643][977]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Bullet3D47A3984632C065A28B6B92BFB63602.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Gun/Bullet.uasset'
+[2019.04.28-17.59.55:498][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-17.59.55:590][ 88]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.28-17.59.55:604][ 88]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-17.59.55:604][ 88]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.28-17.59.55:604][ 88]PIE: New page: PIE session: GameWorld (Apr 28, 2019, 7:59:55 AM)
+[2019.04.28-17.59.55:604][ 88]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_GameWorld
+[2019.04.28-17.59.55:647][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042557s)
+[2019.04.28-17.59.55:647][ 88]LogAIModule: Creating AISystem for world GameWorld
+[2019.04.28-17.59.55:647][ 88]LogPlayLevel: PIE: World Init took: (0.000478s)
+[2019.04.28-17.59.55:647][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/GameWorld.GameWorld to /Game/Scenes/UEDPIE_0_GameWorld.GameWorld (0.043254s)
+[2019.04.28-17.59.55:678][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.04.28-17.59.55:692][ 88]LogInit: XAudio2 using 'Headset Earphone (ASTRO Wireless Transmitter )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.28-17.59.55:699][ 88]LogInit: FAudioDevice initialized.
+[2019.04.28-17.59.55:728][ 88]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.28-17.59.55:750][ 88]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_GameWorld.GameWorld up for play (max tick rate 0) at 2019.04.28-12.59.55
+[2019.04.28-17.59.55:753][ 88]LogWorld: Bringing up level for play took: 0.024886
+[2019.04.28-17.59.55:765][ 88]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_GameWorld -0.3
+[2019.04.28-17.59.55:766][ 88]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.00.02:121][752]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.00.02:121][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-18.00.02:196][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.28-18.00.02:197][752]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.00.02:236][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-18.00.02:241][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.04.28-18.00.02:267][753]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.04.28-18.00.03:605][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-18.00.26:800][656]BlueprintLog: New page: Compile Bullet
+[2019.04.28-18.00.26:954][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.04.28-18.00.27:298][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/Bullet" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Gun/Bullet.uasset" SILENT=true
+[2019.04.28-18.00.27:329][692]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Bullet68B18A734DFA01B90F60939E2DA5DD26.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Gun/Bullet.uasset'
+[2019.04.28-18.00.28:191][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-18.00.28:249][798]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.28-18.00.28:263][798]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.00.28:263][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.28-18.00.28:264][798]PIE: New page: PIE session: GameWorld (Apr 28, 2019, 8:00:28 AM)
+[2019.04.28-18.00.28:264][798]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_GameWorld
+[2019.04.28-18.00.28:307][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043216s)
+[2019.04.28-18.00.28:307][798]LogAIModule: Creating AISystem for world GameWorld
+[2019.04.28-18.00.28:307][798]LogPlayLevel: PIE: World Init took: (0.000459s)
+[2019.04.28-18.00.28:308][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/GameWorld.GameWorld to /Game/Scenes/UEDPIE_0_GameWorld.GameWorld (0.043967s)
+[2019.04.28-18.00.28:335][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.04.28-18.00.28:348][798]LogInit: XAudio2 using 'Headset Earphone (ASTRO Wireless Transmitter )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.28-18.00.28:356][798]LogInit: FAudioDevice initialized.
+[2019.04.28-18.00.28:383][798]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.28-18.00.28:424][798]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_GameWorld.GameWorld up for play (max tick rate 0) at 2019.04.28-13.00.28
+[2019.04.28-18.00.28:427][798]LogWorld: Bringing up level for play took: 0.042808
+[2019.04.28-18.00.28:440][798]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_GameWorld 0.375
+[2019.04.28-18.00.28:441][798]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.00.35:309][523]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.00.35:310][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-18.00.35:369][523]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.28-18.00.35:370][523]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.00.35:404][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-18.00.35:410][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.04.28-18.00.35:429][524]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.04.28-18.00.36:367][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-18.00.41:544][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-18.00.48:860][100]BlueprintLog: New page: Compile Bullet
+[2019.04.28-18.00.49:014][100]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.04.28-18.00.49:157][110]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-18.00.49:580][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/Bullet" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Gun/Bullet.uasset" SILENT=true
+[2019.04.28-18.00.49:611][158]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/BulletAFF327B64B2D36FE1F85BF952AB386ED.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Gun/Bullet.uasset'
+[2019.04.28-18.00.50:249][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-18.00.50:357][239]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.28-18.00.50:372][239]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.00.50:372][239]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.28-18.00.50:372][239]PIE: New page: PIE session: GameWorld (Apr 28, 2019, 8:00:50 AM)
+[2019.04.28-18.00.50:372][239]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_GameWorld
+[2019.04.28-18.00.50:415][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043095s)
+[2019.04.28-18.00.50:415][239]LogAIModule: Creating AISystem for world GameWorld
+[2019.04.28-18.00.50:416][239]LogPlayLevel: PIE: World Init took: (0.000502s)
+[2019.04.28-18.00.50:416][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/GameWorld.GameWorld to /Game/Scenes/UEDPIE_0_GameWorld.GameWorld (0.043808s)
+[2019.04.28-18.00.50:448][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.04.28-18.00.50:462][239]LogInit: XAudio2 using 'Headset Earphone (ASTRO Wireless Transmitter )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.28-18.00.50:469][239]LogInit: FAudioDevice initialized.
+[2019.04.28-18.00.50:498][239]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.28-18.00.50:527][239]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_GameWorld.GameWorld up for play (max tick rate 0) at 2019.04.28-13.00.50
+[2019.04.28-18.00.50:530][239]LogWorld: Bringing up level for play took: 0.032670
+[2019.04.28-18.00.50:543][239]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_GameWorld 0.478
+[2019.04.28-18.00.50:544][239]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.01.02:589][553]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.01.02:589][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-18.01.02:650][553]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.28-18.01.02:651][553]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.01.02:686][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-18.01.02:692][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.04.28-18.01.02:720][554]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.04.28-18.01.03:377][630]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Alley_Main_Floor_1)
+[2019.04.28-18.01.03:962][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Alley_Main_Floor_2)
+[2019.04.28-18.01.04:367][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Side_Walk_22)
+[2019.04.28-18.01.05:761][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Alley_Main_Floor_2)
+[2019.04.28-18.01.09:014][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-18.01.38:072][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Alley_Main_Floor_2)
+[2019.04.28-18.01.48:313][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-18.01.48:463][247]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/T_Punk_Meshes/Alley_Building_Wall_2.Alley_Building_Wall_2
+[2019.04.28-18.01.48:478][247]LogBlueprintActionDatabase: Requesting refresh due to module change: StaticMeshEditor (loaded)
+[2019.04.28-18.01.49:063][248]LogRenderer: Reallocating scene render targets to support 1208x740 Format 10 NumSamples 1 (Frame:1).
+[2019.04.28-18.02.16:355][466]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Alley_Building_Wall_2CE67563349EB5684D6F11CB285261D7B.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Geometry/Meshes/T_Punk_Meshes/Alley_Building_Wall_2.uasset'
+[2019.04.28-18.02.19:035][743]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/T_Punk_Meshes/Alley_Building_Wall_1.Alley_Building_Wall_1
+[2019.04.28-18.02.27:222][681]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Alley_Building_Wall_10CE894AA44833569B3128B961FD166DE.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Geometry/Meshes/T_Punk_Meshes/Alley_Building_Wall_1.uasset'
+[2019.04.28-18.02.29:499][909]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/T_Punk_Meshes/Alley_Building_Wall_3.Alley_Building_Wall_3
+[2019.04.28-18.02.34:103][423]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Alley_Building_Wall_39AF74B024365FBA68003C79C2D0A7008.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Geometry/Meshes/T_Punk_Meshes/Alley_Building_Wall_3.uasset'
+[2019.04.28-18.02.35:935][599]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/T_Punk_Meshes/Alley_Ceiling_1.Alley_Ceiling_1
+[2019.04.28-18.02.42:785][338]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/T_Punk_Meshes/Alley_Doorway_Pillar_1.Alley_Doorway_Pillar_1
+[2019.04.28-18.02.45:962][685]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-18.02.47:626][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-18.02.47:742][873]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Alley_Doorway_Pillar_1C17BEB254F784A2C2E73E6A95F27531F.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Geometry/Meshes/T_Punk_Meshes/Alley_Doorway_Pillar_1.uasset'
+[2019.04.28-18.02.50:020][ 90]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/T_Punk_Meshes/Alley_Main_Floor_1.Alley_Main_Floor_1
+[2019.04.28-18.02.54:848][620]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Alley_Main_Floor_176CDD2C04056990488E2F5967A9B6447.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Geometry/Meshes/T_Punk_Meshes/Alley_Main_Floor_1.uasset'
+[2019.04.28-18.02.56:904][820]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/T_Punk_Meshes/Alley_Main_Floor_2.Alley_Main_Floor_2
+[2019.04.28-18.03.01:016][265]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Alley_Main_Floor_23BF1EC2A4B3E90154D3AF7A3473C7EB7.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Geometry/Meshes/T_Punk_Meshes/Alley_Main_Floor_2.uasset'
+[2019.04.28-18.03.03:303][490]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/T_Punk_Meshes/Alley_Main_Floor_3.Alley_Main_Floor_3
+[2019.04.28-18.03.07:851][982]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Alley_Main_Floor_304C91EF44B903E7FF5F95A81A9AA7DB1.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Geometry/Meshes/T_Punk_Meshes/Alley_Main_Floor_3.uasset'
+[2019.04.28-18.03.10:090][200]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/T_Punk_Meshes/Alley_Wall_1.Alley_Wall_1
+[2019.04.28-18.03.15:728][801]LogStaticMesh: Building static mesh Canopy...
+[2019.04.28-18.03.15:737][801]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2019.04.28-18.03.15:780][801]LogStaticMesh: Built static mesh [0.05s] /Game/Geometry/Meshes/T_Punk_Meshes/Canopy.Canopy
+[2019.04.28-18.03.15:789][801]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/T_Punk_Meshes/Canopy.Canopy
+[2019.04.28-18.03.21:889][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/T_Punk_Meshes/Canopy" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Geometry/Meshes/T_Punk_Meshes/Canopy.uasset" SILENT=true
+[2019.04.28-18.03.21:915][461]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Canopy01D531E546FA872811F288A33645B3DD.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Geometry/Meshes/T_Punk_Meshes/Canopy.uasset'
+[2019.04.28-18.03.29:577][214]LogStaticMesh: Building static mesh WallSign...
+[2019.04.28-18.03.29:599][214]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/T_Punk_Meshes/WallSign.WallSign
+[2019.04.28-18.03.29:607][214]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/T_Punk_Meshes/WallSign.WallSign
+[2019.04.28-18.03.32:527][502]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.28-18.03.32:543][502]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.03.32:543][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.28-18.03.32:543][502]PIE: New page: PIE session: GameWorld (Apr 28, 2019, 8:03:32 AM)
+[2019.04.28-18.03.32:543][502]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_GameWorld
+[2019.04.28-18.03.32:586][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042754s)
+[2019.04.28-18.03.32:586][502]LogAIModule: Creating AISystem for world GameWorld
+[2019.04.28-18.03.32:586][502]LogPlayLevel: PIE: World Init took: (0.000481s)
+[2019.04.28-18.03.32:587][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/GameWorld.GameWorld to /Game/Scenes/UEDPIE_0_GameWorld.GameWorld (0.043460s)
+[2019.04.28-18.03.32:682][502]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2019.04.28-18.03.32:695][502]LogInit: XAudio2 using 'Headset Earphone (ASTRO Wireless Transmitter )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.28-18.03.32:703][502]LogInit: FAudioDevice initialized.
+[2019.04.28-18.03.32:730][502]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.28-18.03.32:751][502]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_GameWorld.GameWorld up for play (max tick rate 0) at 2019.04.28-13.03.32
+[2019.04.28-18.03.32:754][502]LogWorld: Bringing up level for play took: 0.022893
+[2019.04.28-18.03.32:767][502]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_GameWorld 0.701
+[2019.04.28-18.03.32:768][502]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.03.37:466][941]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.03.37:467][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-18.03.37:532][941]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.28-18.03.37:533][941]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.03.37:572][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-18.03.37:593][941]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.04.28-18.03.37:618][942]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.04.28-18.03.41:538][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-18.04.21:604][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.04.28-18.04.21:605][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/GameWorld" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Autosaves/Game/Scenes/GameWorld_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.04.28-18.04.22:444][311]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/GameWorld_Auto1ED6409514B5609622E808D965A7174A7.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Autosaves/Game/Scenes/GameWorld_Auto1.umap'
+[2019.04.28-18.04.22:447][311]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/GameWorld' took 0.871
+[2019.04.28-18.04.22:447][311]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.871
+[2019.04.28-18.04.53:167][724]BlueprintLog: New page: Compile Bullet
+[2019.04.28-18.04.53:342][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.04.28-18.04.53:598][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/Bullet" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Gun/Bullet.uasset" SILENT=true
+[2019.04.28-18.04.53:629][746]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Bullet86F539DC43CC69C5052A869E599DA335.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Gun/Bullet.uasset'
+[2019.04.28-18.04.54:555][849]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.28-18.04.54:569][849]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.04.54:569][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.28-18.04.54:569][849]PIE: New page: PIE session: GameWorld (Apr 28, 2019, 8:04:54 AM)
+[2019.04.28-18.04.54:569][849]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_GameWorld
+[2019.04.28-18.04.54:611][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041923s)
+[2019.04.28-18.04.54:611][849]LogAIModule: Creating AISystem for world GameWorld
+[2019.04.28-18.04.54:611][849]LogPlayLevel: PIE: World Init took: (0.000456s)
+[2019.04.28-18.04.54:611][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/GameWorld.GameWorld to /Game/Scenes/UEDPIE_0_GameWorld.GameWorld (0.042569s)
+[2019.04.28-18.04.54:642][849]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.04.28-18.04.54:655][849]LogInit: XAudio2 using 'Headset Earphone (ASTRO Wireless Transmitter )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.28-18.04.54:663][849]LogInit: FAudioDevice initialized.
+[2019.04.28-18.04.54:691][849]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.28-18.04.54:711][849]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_GameWorld.GameWorld up for play (max tick rate 0) at 2019.04.28-13.04.54
+[2019.04.28-18.04.54:714][849]LogWorld: Bringing up level for play took: 0.022696
+[2019.04.28-18.04.54:727][849]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_GameWorld 0.661
+[2019.04.28-18.04.54:728][849]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.04.58:258][158]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.04.58:258][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-18.04.58:316][158]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.28-18.04.58:317][158]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.04.58:357][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-18.04.58:363][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.04.28-18.04.58:388][159]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.04.28-18.04.59:510][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-18.05.09:257][436]BlueprintLog: New page: Compile Bullet
+[2019.04.28-18.05.09:432][436]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.04.28-18.05.09:679][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/Bullet" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Gun/Bullet.uasset" SILENT=true
+[2019.04.28-18.05.09:715][460]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Bullet3026A9E745068364705C74AA0236BF2B.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Gun/Bullet.uasset'
+[2019.04.28-18.05.10:687][573]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.28-18.05.10:701][573]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.05.10:701][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.28-18.05.10:701][573]PIE: New page: PIE session: GameWorld (Apr 28, 2019, 8:05:10 AM)
+[2019.04.28-18.05.10:701][573]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_GameWorld
+[2019.04.28-18.05.10:743][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042261s)
+[2019.04.28-18.05.10:744][573]LogAIModule: Creating AISystem for world GameWorld
+[2019.04.28-18.05.10:744][573]LogPlayLevel: PIE: World Init took: (0.000441s)
+[2019.04.28-18.05.10:744][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/GameWorld.GameWorld to /Game/Scenes/UEDPIE_0_GameWorld.GameWorld (0.042904s)
+[2019.04.28-18.05.10:778][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.04.28-18.05.10:792][573]LogInit: XAudio2 using 'Headset Earphone (ASTRO Wireless Transmitter )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.28-18.05.10:799][573]LogInit: FAudioDevice initialized.
+[2019.04.28-18.05.10:826][573]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.28-18.05.10:846][573]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_GameWorld.GameWorld up for play (max tick rate 0) at 2019.04.28-13.05.10
+[2019.04.28-18.05.10:848][573]LogWorld: Bringing up level for play took: 0.021931
+[2019.04.28-18.05.10:862][573]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_GameWorld 0.796
+[2019.04.28-18.05.10:862][573]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.05.13:908][844]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.05.13:909][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-18.05.13:967][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.28-18.05.13:968][844]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.05.14:004][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-18.05.14:010][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.04.28-18.05.14:034][845]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.04.28-18.05.15:108][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-18.05.16:768][166]BlueprintLog: New page: Compile Bullet
+[2019.04.28-18.05.16:942][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.04.28-18.05.17:097][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/Bullet" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Gun/Bullet.uasset" SILENT=true
+[2019.04.28-18.05.17:133][179]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Bullet52766D3441E255EEB27DFA9433E521D9.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Gun/Bullet.uasset'
+[2019.04.28-18.05.18:067][287]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.28-18.05.18:082][287]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.05.18:082][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.28-18.05.18:082][287]PIE: New page: PIE session: GameWorld (Apr 28, 2019, 8:05:18 AM)
+[2019.04.28-18.05.18:082][287]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_GameWorld
+[2019.04.28-18.05.18:124][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042099s)
+[2019.04.28-18.05.18:124][287]LogAIModule: Creating AISystem for world GameWorld
+[2019.04.28-18.05.18:125][287]LogPlayLevel: PIE: World Init took: (0.000471s)
+[2019.04.28-18.05.18:125][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/GameWorld.GameWorld to /Game/Scenes/UEDPIE_0_GameWorld.GameWorld (0.042771s)
+[2019.04.28-18.05.18:160][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.04.28-18.05.18:173][287]LogInit: XAudio2 using 'Headset Earphone (ASTRO Wireless Transmitter )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.28-18.05.18:181][287]LogInit: FAudioDevice initialized.
+[2019.04.28-18.05.18:212][287]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.28-18.05.18:233][287]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_GameWorld.GameWorld up for play (max tick rate 0) at 2019.04.28-13.05.18
+[2019.04.28-18.05.18:235][287]LogWorld: Bringing up level for play took: 0.022632
+[2019.04.28-18.05.18:248][287]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_GameWorld 0.182
+[2019.04.28-18.05.18:249][287]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.05.21:856][624]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.05.21:856][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-18.05.21:917][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.28-18.05.21:918][624]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.05.21:955][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-18.05.21:961][624]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.04.28-18.05.21:987][625]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.04.28-18.05.22:593][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-18.05.26:680][178]BlueprintLog: New page: Compile Bullet
+[2019.04.28-18.05.26:854][178]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.04.28-18.05.27:288][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/Bullet" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Gun/Bullet.uasset" SILENT=true
+[2019.04.28-18.05.27:319][225]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Bullet05E7402D4FA3E7BD2D830FAE27DAEB4A.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Gun/Bullet.uasset'
+[2019.04.28-18.05.28:415][353]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.28-18.05.28:430][353]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.05.28:430][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.28-18.05.28:430][353]PIE: New page: PIE session: GameWorld (Apr 28, 2019, 8:05:28 AM)
+[2019.04.28-18.05.28:430][353]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_GameWorld
+[2019.04.28-18.05.28:473][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042664s)
+[2019.04.28-18.05.28:473][353]LogAIModule: Creating AISystem for world GameWorld
+[2019.04.28-18.05.28:473][353]LogPlayLevel: PIE: World Init took: (0.000450s)
+[2019.04.28-18.05.28:473][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/GameWorld.GameWorld to /Game/Scenes/UEDPIE_0_GameWorld.GameWorld (0.043306s)
+[2019.04.28-18.05.28:509][353]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.04.28-18.05.28:522][353]LogInit: XAudio2 using 'Headset Earphone (ASTRO Wireless Transmitter )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.28-18.05.28:530][353]LogInit: FAudioDevice initialized.
+[2019.04.28-18.05.28:559][353]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.28-18.05.28:579][353]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_GameWorld.GameWorld up for play (max tick rate 0) at 2019.04.28-13.05.28
+[2019.04.28-18.05.28:583][353]LogWorld: Bringing up level for play took: 0.023086
+[2019.04.28-18.05.28:595][353]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_GameWorld 0.529
+[2019.04.28-18.05.28:596][353]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.05.32:568][733]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.05.32:568][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-18.05.32:626][733]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.28-18.05.32:627][733]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.05.32:665][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-18.05.32:671][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.04.28-18.05.32:694][734]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2019.04.28-18.05.34:013][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-18.05.48:621][608]BlueprintLog: New page: Compile Bullet
+[2019.04.28-18.05.48:799][608]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.04.28-18.05.48:994][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/Bullet" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Gun/Bullet.uasset" SILENT=true
+[2019.04.28-18.05.49:026][626]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Bullet5FA9530E431E6C05D50CA79140EB7AFB.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Gun/Bullet.uasset'
+[2019.04.28-18.05.49:448][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-18.05.52:206][  3]BlueprintLog: New page: Compile Bullet
+[2019.04.28-18.05.52:384][  3]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.04.28-18.05.52:637][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/Bullet" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Gun/Bullet.uasset" SILENT=true
+[2019.04.28-18.05.52:670][ 28]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Bullet9F024509450D8D04A39552837E256873.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Gun/Bullet.uasset'
+[2019.04.28-18.05.53:850][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-18.05.53:926][175]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.28-18.05.53:941][175]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.05.53:941][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.28-18.05.53:941][175]PIE: New page: PIE session: GameWorld (Apr 28, 2019, 8:05:53 AM)
+[2019.04.28-18.05.53:941][175]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_GameWorld
+[2019.04.28-18.05.53:983][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042176s)
+[2019.04.28-18.05.53:984][175]LogAIModule: Creating AISystem for world GameWorld
+[2019.04.28-18.05.53:984][175]LogPlayLevel: PIE: World Init took: (0.000470s)
+[2019.04.28-18.05.53:984][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/GameWorld.GameWorld to /Game/Scenes/UEDPIE_0_GameWorld.GameWorld (0.042861s)
+[2019.04.28-18.05.54:019][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.04.28-18.05.54:031][175]LogInit: XAudio2 using 'Headset Earphone (ASTRO Wireless Transmitter )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.28-18.05.54:039][175]LogInit: FAudioDevice initialized.
+[2019.04.28-18.05.54:067][175]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.28-18.05.54:088][175]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_GameWorld.GameWorld up for play (max tick rate 0) at 2019.04.28-13.05.54
+[2019.04.28-18.05.54:090][175]LogWorld: Bringing up level for play took: 0.022226
+[2019.04.28-18.05.54:103][175]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_GameWorld 0.038
+[2019.04.28-18.05.54:104][175]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.05.56:992][425]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.05.56:992][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-18.05.57:052][425]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.28-18.05.57:053][425]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.05.57:092][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-18.05.57:098][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.04.28-18.05.57:124][426]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2019.04.28-18.05.57:626][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Street_2)
+[2019.04.28-18.06.00:754][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-18.06.09:832][768]BlueprintLog: New page: Compile Bullet
+[2019.04.28-18.06.10:010][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.04.28-18.06.10:349][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/Bullet" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Gun/Bullet.uasset" SILENT=true
+[2019.04.28-18.06.10:382][797]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/Bullet1DE047FE4E32243CD8D9FF810C835C9D.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Gun/Bullet.uasset'
+[2019.04.28-18.06.10:759][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-18.06.17:272][479]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.28-18.06.17:286][479]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.06.17:286][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.28-18.06.17:286][479]PIE: New page: PIE session: GameWorld (Apr 28, 2019, 8:06:17 AM)
+[2019.04.28-18.06.17:287][479]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_GameWorld
+[2019.04.28-18.06.17:329][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041921s)
+[2019.04.28-18.06.17:329][479]LogAIModule: Creating AISystem for world GameWorld
+[2019.04.28-18.06.17:329][479]LogPlayLevel: PIE: World Init took: (0.000417s)
+[2019.04.28-18.06.17:329][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/GameWorld.GameWorld to /Game/Scenes/UEDPIE_0_GameWorld.GameWorld (0.042537s)
+[2019.04.28-18.06.17:360][479]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2019.04.28-18.06.17:374][479]LogInit: XAudio2 using 'Headset Earphone (ASTRO Wireless Transmitter )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.28-18.06.17:382][479]LogInit: FAudioDevice initialized.
+[2019.04.28-18.06.17:410][479]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.28-18.06.17:431][479]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_GameWorld.GameWorld up for play (max tick rate 0) at 2019.04.28-13.06.17
+[2019.04.28-18.06.17:433][479]LogWorld: Bringing up level for play took: 0.022598
+[2019.04.28-18.06.17:446][479]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_GameWorld -0.62
+[2019.04.28-18.06.17:447][479]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.06.31:783][886]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_12] NODE_AddChildActorComponent-0_Bullet_C_CAT_12.Sphere
+[2019.04.28-18.06.31:783][886]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_12] NODE_AddChildActorComponent-0_Bullet_C_CAT_12.Sphere
+[2019.04.28-18.06.31:793][887]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_12] NODE_AddChildActorComponent-0_Bullet_C_CAT_12.Sphere
+[2019.04.28-18.06.31:794][887]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_12] NODE_AddChildActorComponent-0_Bullet_C_CAT_12.Sphere
+[2019.04.28-18.06.31:804][888]LogCharacterMovement: AIEnemy4_11 is stuck and failed to move! Velocity: X=-10.86 Y=199.71 Z=0.00 Location: X=974.02 Y=6282.43 Z=97.68 Normal: X=0.90 Y=0.44 Z=0.00 PenetrationDepth:8.245 Actor:NODE_AddChildActorComponent-0_Bullet_C_CAT_12 Component:Sphere BoneName:None (0 other events since notify)
+[2019.04.28-18.06.31:804][888]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_12] NODE_AddChildActorComponent-0_Bullet_C_CAT_12.Sphere
+[2019.04.28-18.06.31:813][889]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_12] NODE_AddChildActorComponent-0_Bullet_C_CAT_12.Sphere
+[2019.04.28-18.06.31:824][890]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_12] NODE_AddChildActorComponent-0_Bullet_C_CAT_12.Sphere
+[2019.04.28-18.06.31:833][891]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_12] NODE_AddChildActorComponent-0_Bullet_C_CAT_12.Sphere
+[2019.04.28-18.06.31:834][891]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_12] NODE_AddChildActorComponent-0_Bullet_C_CAT_12.Sphere
+[2019.04.28-18.06.31:843][892]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_12] NODE_AddChildActorComponent-0_Bullet_C_CAT_12.Sphere
+[2019.04.28-18.06.34:120][126]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:129][127]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:129][127]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:129][127]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:129][127]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:139][128]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:139][128]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:139][128]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:139][128]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:149][129]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:149][129]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:149][129]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:149][129]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:159][130]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:159][130]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:159][130]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:159][130]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:169][131]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:169][131]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:169][131]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:169][131]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:179][132]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:180][132]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:180][132]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:180][132]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:190][133]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:190][133]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:190][133]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:190][133]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:201][134]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:201][134]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:201][134]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:201][134]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:211][135]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:211][135]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:211][135]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:211][135]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:222][136]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:222][136]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:223][136]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:223][136]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:233][137]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:233][137]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:233][137]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:233][137]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:244][138]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:244][138]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:244][138]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:244][138]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:254][139]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:254][139]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:254][139]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:254][139]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:265][140]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:265][140]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:265][140]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:265][140]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:275][141]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:275][141]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:275][141]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:275][141]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:286][142]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:286][142]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:286][142]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:286][142]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:296][143]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:296][143]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:296][143]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:296][143]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:307][144]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:307][144]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:307][144]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:307][144]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:317][145]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:317][145]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:317][145]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:317][145]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:317][145]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_26] NODE_AddChildActorComponent-0_Bullet_C_CAT_26.Sphere
+[2019.04.28-18.06.34:328][146]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:328][146]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:328][146]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:328][146]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_25] NODE_AddChildActorComponent-0_Bullet_C_CAT_25.Sphere
+[2019.04.28-18.06.34:328][146]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_26] NODE_AddChildActorComponent-0_Bullet_C_CAT_26.Sphere
+[2019.04.28-18.06.34:338][147]LogCharacterMovement: AIEnemy4_11 is stuck and failed to move! Velocity: X=-17.72 Y=199.21 Z=0.00 Location: X=1057.45 Y=7281.24 Z=98.27 Normal: X=-0.94 Y=0.35 Z=-0.00 PenetrationDepth:36.365 Actor:NODE_AddChildActorComponent-0_Bullet_C_CAT_26 Component:Sphere BoneName:None (0 other events since notify)
+[2019.04.28-18.06.34:369][150]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_26] NODE_AddChildActorComponent-0_Bullet_C_CAT_26.Sphere
+[2019.04.28-18.06.34:369][150]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_26] NODE_AddChildActorComponent-0_Bullet_C_CAT_26.Sphere
+[2019.04.28-18.06.34:379][151]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_26] NODE_AddChildActorComponent-0_Bullet_C_CAT_26.Sphere
+[2019.04.28-18.06.34:379][151]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_26] NODE_AddChildActorComponent-0_Bullet_C_CAT_26.Sphere
+[2019.04.28-18.06.34:390][152]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_26] NODE_AddChildActorComponent-0_Bullet_C_CAT_26.Sphere
+[2019.04.28-18.06.34:391][152]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_26] NODE_AddChildActorComponent-0_Bullet_C_CAT_26.Sphere
+[2019.04.28-18.06.34:400][153]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_26] NODE_AddChildActorComponent-0_Bullet_C_CAT_26.Sphere
+[2019.04.28-18.06.34:410][154]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_26] NODE_AddChildActorComponent-0_Bullet_C_CAT_26.Sphere
+[2019.04.28-18.06.34:640][176]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:640][176]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:650][177]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:660][178]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:670][179]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:680][180]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:691][181]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:703][182]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:713][183]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:723][184]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:734][185]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:734][185]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:734][185]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:734][185]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:745][186]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:745][186]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:745][186]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:745][186]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:755][187]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:755][187]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:755][187]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:755][187]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:766][188]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:766][188]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:766][188]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:766][188]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:766][188]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_29] NODE_AddChildActorComponent-0_Bullet_C_CAT_29.Sphere
+[2019.04.28-18.06.34:775][189]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:775][189]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:775][189]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:775][189]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:775][189]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_29] NODE_AddChildActorComponent-0_Bullet_C_CAT_29.Sphere
+[2019.04.28-18.06.34:786][190]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:786][190]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:786][190]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:786][190]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_28] NODE_AddChildActorComponent-0_Bullet_C_CAT_28.Sphere
+[2019.04.28-18.06.34:786][190]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_29] NODE_AddChildActorComponent-0_Bullet_C_CAT_29.Sphere
+[2019.04.28-18.06.34:828][194]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_29] NODE_AddChildActorComponent-0_Bullet_C_CAT_29.Sphere
+[2019.04.28-18.06.34:828][194]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_29] NODE_AddChildActorComponent-0_Bullet_C_CAT_29.Sphere
+[2019.04.28-18.06.34:838][195]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_29] NODE_AddChildActorComponent-0_Bullet_C_CAT_29.Sphere
+[2019.04.28-18.06.34:838][195]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_29] NODE_AddChildActorComponent-0_Bullet_C_CAT_29.Sphere
+[2019.04.28-18.06.34:849][196]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_29] NODE_AddChildActorComponent-0_Bullet_C_CAT_29.Sphere
+[2019.04.28-18.06.34:849][196]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_29] NODE_AddChildActorComponent-0_Bullet_C_CAT_29.Sphere
+[2019.04.28-18.06.34:859][197]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_29] NODE_AddChildActorComponent-0_Bullet_C_CAT_29.Sphere
+[2019.04.28-18.06.34:859][197]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_29] NODE_AddChildActorComponent-0_Bullet_C_CAT_29.Sphere
+[2019.04.28-18.06.34:869][198]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_29] NODE_AddChildActorComponent-0_Bullet_C_CAT_29.Sphere
+[2019.04.28-18.06.34:880][199]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_29] NODE_AddChildActorComponent-0_Bullet_C_CAT_29.Sphere
+[2019.04.28-18.06.37:669][480]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.06.37:669][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-18.06.37:728][480]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.28-18.06.37:729][480]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.06.37:768][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-18.06.37:775][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.04.28-18.06.37:801][481]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2019.04.28-18.06.44:236][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-18.08.21:825][733]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/T_Punk_Meshes/Alley_Building_Wall_2.Alley_Building_Wall_2
+[2019.04.28-18.09.32:770][767]BlueprintLog: New page: Compile Bullet
+[2019.04.28-18.09.32:955][767]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.04.28-18.09.33:152][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/Bullet" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Gun/Bullet.uasset" SILENT=true
+[2019.04.28-18.09.33:182][782]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/BulletA08AC1B64E8AAD58691630BCDF7D06F8.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Gun/Bullet.uasset'
+[2019.04.28-18.09.34:379][910]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.28-18.09.34:393][910]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.09.34:393][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.28-18.09.34:394][910]PIE: New page: PIE session: GameWorld (Apr 28, 2019, 8:09:34 AM)
+[2019.04.28-18.09.34:394][910]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_GameWorld
+[2019.04.28-18.09.34:438][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043930s)
+[2019.04.28-18.09.34:438][910]LogAIModule: Creating AISystem for world GameWorld
+[2019.04.28-18.09.34:438][910]LogPlayLevel: PIE: World Init took: (0.000449s)
+[2019.04.28-18.09.34:438][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/GameWorld.GameWorld to /Game/Scenes/UEDPIE_0_GameWorld.GameWorld (0.044577s)
+[2019.04.28-18.09.34:467][910]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.04.28-18.09.34:481][910]LogInit: XAudio2 using 'Headset Earphone (ASTRO Wireless Transmitter )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.28-18.09.34:489][910]LogInit: FAudioDevice initialized.
+[2019.04.28-18.09.34:518][910]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.28-18.09.34:543][910]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_GameWorld.GameWorld up for play (max tick rate 0) at 2019.04.28-13.09.34
+[2019.04.28-18.09.34:546][910]LogWorld: Bringing up level for play took: 0.027475
+[2019.04.28-18.09.34:559][910]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_GameWorld 0.493
+[2019.04.28-18.09.34:560][910]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.09.36:400][ 19]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_1] Bullet
+[2019.04.28-18.09.36:400][ 19]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_0] Bullet1
+[2019.04.28-18.09.36:401][ 19]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_1] Bullet
+[2019.04.28-18.09.36:562][ 36]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_2] Bullet
+[2019.04.28-18.09.36:562][ 36]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_2] Bullet1
+[2019.04.28-18.09.36:562][ 36]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_1] Bullet2
+[2019.04.28-18.09.36:721][ 53]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet2
+[2019.04.28-18.09.36:721][ 53]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_2] Bullet3
+[2019.04.28-18.09.36:721][ 53]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet
+[2019.04.28-18.09.36:721][ 53]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet1
+[2019.04.28-18.09.36:722][ 53]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet2
+[2019.04.28-18.09.36:722][ 53]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet
+[2019.04.28-18.09.36:760][ 57]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet
+[2019.04.28-18.09.36:760][ 57]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_2] Bullet
+[2019.04.28-18.09.36:769][ 58]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet
+[2019.04.28-18.09.36:769][ 58]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_2] Bullet
+[2019.04.28-18.09.36:778][ 59]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet
+[2019.04.28-18.09.36:788][ 60]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet
+[2019.04.28-18.09.36:796][ 61]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet
+[2019.04.28-18.09.36:806][ 62]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet
+[2019.04.28-18.09.36:882][ 70]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet1
+[2019.04.28-18.09.36:884][ 70]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet1
+[2019.04.28-18.09.36:892][ 71]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.36:893][ 71]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.36:902][ 72]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.36:902][ 72]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.36:911][ 73]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.36:911][ 73]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.36:921][ 74]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.36:921][ 74]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.36:930][ 75]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.36:930][ 75]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.36:940][ 76]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.36:940][ 76]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.36:950][ 77]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.36:950][ 77]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.36:960][ 78]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.36:960][ 78]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.36:970][ 79]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.36:970][ 79]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.36:980][ 80]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.36:980][ 80]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.36:990][ 81]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.36:990][ 81]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:000][ 82]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:000][ 82]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:009][ 83]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:009][ 83]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:020][ 84]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:020][ 84]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:029][ 85]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:029][ 85]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet5
+[2019.04.28-18.09.37:029][ 85]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:029][ 85]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:039][ 86]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:039][ 86]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:048][ 87]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:048][ 87]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:048][ 87]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet1
+[2019.04.28-18.09.37:058][ 88]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:058][ 88]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:058][ 88]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet1
+[2019.04.28-18.09.37:067][ 89]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:067][ 89]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:068][ 89]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet1
+[2019.04.28-18.09.37:077][ 90]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:078][ 90]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:078][ 90]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_2] Bullet1
+[2019.04.28-18.09.37:078][ 90]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_1] Bullet2
+[2019.04.28-18.09.37:087][ 91]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:087][ 91]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:087][ 91]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_2] Bullet1
+[2019.04.28-18.09.37:087][ 91]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_1] Bullet2
+[2019.04.28-18.09.37:097][ 92]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:097][ 92]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:097][ 92]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_2] Bullet1
+[2019.04.28-18.09.37:097][ 92]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_1] Bullet2
+[2019.04.28-18.09.37:106][ 93]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:106][ 93]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:106][ 93]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_2] Bullet1
+[2019.04.28-18.09.37:106][ 93]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_1] Bullet2
+[2019.04.28-18.09.37:116][ 94]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:116][ 94]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:116][ 94]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_2] Bullet1
+[2019.04.28-18.09.37:116][ 94]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_1] Bullet2
+[2019.04.28-18.09.37:125][ 95]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:126][ 95]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:126][ 95]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_2] Bullet1
+[2019.04.28-18.09.37:126][ 95]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_1] Bullet2
+[2019.04.28-18.09.37:135][ 96]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:135][ 96]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:145][ 97]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:145][ 97]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:154][ 98]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:154][ 98]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:165][ 99]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:165][ 99]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:175][100]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:175][100]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:184][101]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:184][101]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:194][102]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:194][102]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:203][103]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:203][103]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:213][104]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:213][104]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:222][105]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:222][105]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:232][106]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:232][106]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:243][107]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:243][107]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:252][108]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:252][108]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:262][109]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:262][109]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:270][110]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:270][110]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:280][111]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:280][111]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:289][112]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:289][112]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:299][113]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:299][113]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:309][114]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:309][114]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:318][115]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:318][115]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:328][116]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:328][116]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:337][117]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:337][117]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:347][118]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:347][118]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:357][119]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:357][119]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet7
+[2019.04.28-18.09.37:357][119]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:358][119]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:358][119]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:367][120]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:367][120]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:367][120]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:376][121]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:377][121]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:377][121]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:386][122]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:386][122]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:386][122]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:396][123]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:396][123]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:396][123]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:396][123]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet1
+[2019.04.28-18.09.37:405][124]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:405][124]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:405][124]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:405][124]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet1
+[2019.04.28-18.09.37:415][125]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:415][125]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:415][125]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:415][125]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet1
+[2019.04.28-18.09.37:424][126]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:424][126]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet3
+[2019.04.28-18.09.37:424][126]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_3] Bullet4
+[2019.04.28-18.09.37:424][126]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet1
+[2019.04.28-18.09.37:434][127]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:434][127]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet1
+[2019.04.28-18.09.37:443][128]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:443][128]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet1
+[2019.04.28-18.09.37:453][129]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:453][129]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet1
+[2019.04.28-18.09.37:453][129]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:463][130]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:463][130]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet1
+[2019.04.28-18.09.37:463][130]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:473][131]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:473][131]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet2
+[2019.04.28-18.09.37:473][131]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet1
+[2019.04.28-18.09.37:473][131]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:483][132]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:483][132]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet1
+[2019.04.28-18.09.37:483][132]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:493][133]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:493][133]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet1
+[2019.04.28-18.09.37:493][133]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:503][134]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:503][134]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_4] Bullet1
+[2019.04.28-18.09.37:503][134]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:513][135]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:513][135]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:524][136]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet6
+[2019.04.28-18.09.37:524][136]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.37:524][136]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet8
+[2019.04.28-18.09.37:524][136]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:524][136]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:524][136]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.37:525][136]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet8
+[2019.04.28-18.09.37:534][137]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:534][137]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:544][138]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:544][138]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:553][139]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:554][139]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:563][140]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:563][140]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:573][141]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:573][141]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:582][142]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:583][142]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:583][142]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:583][142]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:593][143]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:593][143]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:593][143]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:593][143]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:603][144]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:603][144]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:603][144]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:603][144]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:612][145]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:612][145]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:612][145]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:612][145]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:622][146]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:622][146]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:622][146]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:622][146]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:632][147]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:632][147]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:632][147]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:632][147]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:641][148]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:641][148]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:641][148]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:641][148]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:651][149]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:651][149]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:651][149]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:651][149]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:660][150]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:660][150]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:660][150]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:660][150]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:669][151]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:669][151]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:669][151]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:669][151]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:679][152]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:679][152]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:679][152]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:679][152]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:688][153]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:688][153]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:688][153]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:688][153]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:697][154]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:697][154]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:697][154]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:697][154]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:708][155]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:708][155]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:708][155]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:708][155]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:718][156]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:718][156]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:718][156]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:718][156]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:727][157]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:727][157]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:728][157]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:728][157]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:737][158]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:737][158]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:737][158]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:737][158]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:747][159]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:747][159]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:747][159]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:747][159]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:756][160]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:756][160]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:756][160]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:756][160]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:766][161]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:766][161]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:766][161]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:766][161]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:775][162]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:775][162]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:775][162]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:775][162]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:785][163]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:785][163]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:785][163]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:785][163]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:795][164]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:795][164]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:795][164]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:795][164]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:804][165]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:804][165]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:804][165]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:804][165]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:814][166]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:814][166]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:814][166]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:814][166]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:824][167]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:824][167]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:824][167]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:824][167]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:834][168]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:834][168]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:834][168]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:834][168]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:844][169]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:844][169]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:844][169]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:844][169]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:854][170]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:854][170]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:854][170]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:854][170]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:863][171]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.37:863][171]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:863][171]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:863][171]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:863][171]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:873][172]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.37:873][172]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:873][172]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:873][172]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:873][172]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:883][173]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.37:883][173]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:883][173]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:883][173]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:883][173]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:892][174]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.37:892][174]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:892][174]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:892][174]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:892][174]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:902][175]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.37:902][175]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:902][175]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:902][175]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:902][175]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet3
+[2019.04.28-18.09.37:902][175]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:912][176]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.37:912][176]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:912][176]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:912][176]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:912][176]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet3
+[2019.04.28-18.09.37:912][176]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:922][177]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.37:922][177]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:922][177]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:922][177]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:922][177]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet3
+[2019.04.28-18.09.37:922][177]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:931][178]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.37:931][178]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:931][178]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:931][178]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:931][178]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet3
+[2019.04.28-18.09.37:931][178]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:941][179]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.37:941][179]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:941][179]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:941][179]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:941][179]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet3
+[2019.04.28-18.09.37:941][179]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:950][180]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.37:950][180]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:950][180]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:950][180]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:950][180]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet3
+[2019.04.28-18.09.37:950][180]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:960][181]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.37:960][181]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:960][181]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:960][181]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:960][181]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet3
+[2019.04.28-18.09.37:960][181]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:971][182]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.37:971][182]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:971][182]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:971][182]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:971][182]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet3
+[2019.04.28-18.09.37:971][182]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:981][183]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.37:981][183]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:981][183]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:981][183]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:981][183]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.37:991][184]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.37:991][184]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.37:991][184]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.37:991][184]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.37:991][184]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.38:001][185]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.38:001][185]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.38:001][185]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.38:001][185]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.38:001][185]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.38:011][186]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.38:011][186]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.38:011][186]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.38:011][186]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.38:011][186]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.38:022][187]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.38:022][187]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.38:022][187]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.38:022][187]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.38:022][187]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.38:032][188]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.38:032][188]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.38:032][188]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.38:032][188]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.38:032][188]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.38:043][189]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.38:043][189]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.38:043][189]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.38:043][189]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.38:043][189]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.38:054][190]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.38:054][190]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.38:054][190]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.38:054][190]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.38:054][190]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.38:065][191]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.38:065][191]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.38:065][191]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.38:065][191]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.38:065][191]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.38:076][192]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.38:076][192]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.38:076][192]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.38:076][192]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.38:076][192]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.38:086][193]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.38:086][193]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.38:086][193]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.38:086][193]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.38:086][193]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.38:096][194]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.38:096][194]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.38:096][194]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.38:096][194]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.38:096][194]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.38:106][195]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.38:106][195]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.38:106][195]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.38:106][195]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.38:106][195]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.38:116][196]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.38:116][196]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.38:116][196]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.38:116][196]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.38:116][196]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.38:126][197]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_8] Bullet7
+[2019.04.28-18.09.38:126][197]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_6] Bullet5
+[2019.04.28-18.09.38:126][197]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet6
+[2019.04.28-18.09.38:126][197]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_7] Bullet6
+[2019.04.28-18.09.38:126][197]LogBlueprintUserMessages: [NODE_AddChildActorComponent-0_Bullet_C_CAT_5] Bullet4
+[2019.04.28-18.09.38:127][197]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.09.38:127][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-18.09.38:187][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.28-18.09.38:188][197]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.09.38:226][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-18.09.38:232][197]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.04.28-18.09.38:260][198]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2019.04.28-18.09.39:143][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-18.09.47:936][282]BlueprintLog: New page: Compile Bullet
+[2019.04.28-18.09.48:111][282]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.04.28-18.09.48:397][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/Bullet" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Gun/Bullet.uasset" SILENT=true
+[2019.04.28-18.09.48:426][312]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/BulletAA9871444A57E52FAB7E428D7EDA4CC2.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Gun/Bullet.uasset'
+[2019.04.28-18.09.49:145][393]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-18.09.49:510][436]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.28-18.09.49:524][436]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.09.49:524][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.28-18.09.49:525][436]PIE: New page: PIE session: GameWorld (Apr 28, 2019, 8:09:49 AM)
+[2019.04.28-18.09.49:525][436]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_GameWorld
+[2019.04.28-18.09.49:568][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043342s)
+[2019.04.28-18.09.49:568][436]LogAIModule: Creating AISystem for world GameWorld
+[2019.04.28-18.09.49:569][436]LogPlayLevel: PIE: World Init took: (0.000461s)
+[2019.04.28-18.09.49:569][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/GameWorld.GameWorld to /Game/Scenes/UEDPIE_0_GameWorld.GameWorld (0.044006s)
+[2019.04.28-18.09.49:602][436]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.04.28-18.09.49:615][436]LogInit: XAudio2 using 'Headset Earphone (ASTRO Wireless Transmitter )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.28-18.09.49:623][436]LogInit: FAudioDevice initialized.
+[2019.04.28-18.09.49:648][436]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.28-18.09.49:669][436]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_GameWorld.GameWorld up for play (max tick rate 0) at 2019.04.28-13.09.49
+[2019.04.28-18.09.49:671][436]LogWorld: Bringing up level for play took: 0.022516
+[2019.04.28-18.09.49:684][436]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_GameWorld -0.382
+[2019.04.28-18.09.49:685][436]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.10.02:354][855]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.10.02:354][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-18.10.02:415][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.28-18.10.02:416][855]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/GameWorld.GameWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld' with GeneratedClass '/Game/Scenes/GameWorld.GameWorld_C' with ClassGeneratedBy '/Game/Scenes/GameWorld.GameWorld:PersistentLevel.GameWorld'
+[2019.04.28-18.10.02:454][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-18.10.02:461][855]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.04.28-18.10.02:494][856]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2019.04.28-18.10.03:226][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-18.10.07:470][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/GameWorld" FILE="../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Scenes/GameWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.28-18.10.07:505][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.04.28-18.10.08:284][441]LogSavePackage: Moving '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Saved/GameWorld21931DD34BE6E9BBC64E34BF931F380B.tmp' to '../../../../../../Users/Ran/Desktop/LDJam44/Crank/Content/Scenes/GameWorld.umap'
